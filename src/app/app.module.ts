@@ -38,7 +38,9 @@ import { SharedModule } from './shared/shared.module';
     FormsModule, 
     ReactiveFormsModule,
     AppRoutingModule,
-    SharedModule
+    SharedModule,
+    HeaderComponent,
+    FooterComponent
   ],
   providers: [
     {
